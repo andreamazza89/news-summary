@@ -1,0 +1,29 @@
+{
+  "name": "news-summary",
+  "version": "1.0.0",
+  "description": "news reader",
+  "main": "app/server.js",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "zombie": "^4.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "start": "node app/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreamazza89/news-summary.git"
+  },
+  "keywords": [
+    "news"
+  ],
+  "author": "Andrea Mazzarella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreamazza89/news-summary/issues"
+  },
+  "homepage": "https://github.com/andreamazza89/news-summary#readme"
+}
