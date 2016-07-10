@@ -3,13 +3,13 @@
   <head>
     <link type='text/css' rel='stylesheet' href='stylesheets/stylesheet.css' />
     <meta charset='utf-8'>
-    <title>Unicorn Framework</title>
+    <title>News summary</title>
   </head>
 
   <body>
 
     <div class='container'>
-      <h1 class='title'>Unicorn Framework</h1>
+      <h1 class='title'>News summary</h1>
       <div id='template-container' style='display:none'>
         This framework was created by:
         <ul class='name-list'>
